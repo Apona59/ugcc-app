@@ -1,0 +1,34 @@
+    /*this is the container to display activities*/
+        * {
+  box-sizing: border-box;
+}
+
+/* Float four columns side by side with help from W3 schools*/
+        .column {
+        float: left;
+        width: 33%;
+        height:auto;
+        padding: 0 10px;
+        }
+
+        /* Allows the content at the bottom to be seperated instead of being in the same space */
+        .actrow:after {
+        content: "";
+        display: table;
+        clear: both;
+        }
+
+        /* Style the cards */
+        .activitycard {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        padding: 16px;
+        text-align: center;
+        background-color: lightcyan;
+        color: black;;
+        }
+            .activitycard img {
+                width: 100%;
+                height: fit-content;
+                height: 300px;
+                border-radius: 5px;
+                }

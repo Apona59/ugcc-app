@@ -1,0 +1,56 @@
+.form {
+  text-align: left;
+}
+
+h1 {
+  text-align: center;
+}
+
+.form {
+  display: block;
+  margin: 15px auto;
+  border: 0; 
+  padding: 10px;
+}
+
+.question {
+  margin-bottom: 20px;
+  text-align: left;     
+  max-width: 500px; 
+  margin-left: auto;
+  margin-right: auto;
+}
+
+label {
+  display: block;
+  font-size: larger;
+  margin-bottom: 10px;
+}
+
+input,
+select,
+textarea {
+  display: block;
+  width: 100%;        
+  padding: 10px;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+  background-color: darkblue;
+}
+
+.submitButton {
+  background-color: darkblue;
+  color: whitesmoke;
+  padding: 10px 20px;
+  margin: 20px;
+  border-radius: 15px;
+  cursor: pointer;
+}
+.submitButton:Hover {
+  background-color: red;
+}
