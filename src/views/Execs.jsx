@@ -36,7 +36,7 @@ export default function Execs() {
           "It was the second club president, Cloyd London, a student of UG’s Distance Learning computer science Program during the period of 2018-2019, who pursued the education objectives set by Kwesi when he noticed that members within the club lacked training within the field of Cybersecurity. He began providing weekly training to the members, focusing on the basic knowledge needed to succeed in the field."
         ],
 
-      images: ["/images/Executives 20182019/2.jpg"],
+      images: ["/public/Executives 20182019/2.jpg"],
     },
     {
       year: "2019-2020",
@@ -53,7 +53,7 @@ export default function Execs() {
       activities: [
         "As the journey for UGCC continues, we have seen an increase in the interest for Cybersecurity grown among club members. The club continued to provide insight and practical experience to the participating members on topics of Cybersecurity and Information Security."
       ],
-      images: ["/images/Executives 20182019/2.jpg"],
+      images: ["/public/Executives 20182019/2.jpg"],
     },
     {
       year: "2020-2021",
